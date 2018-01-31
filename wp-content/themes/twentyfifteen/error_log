@@ -1,0 +1,4 @@
+[16-Dec-2017 21:57:57 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/wwwmufamadi/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[16-Dec-2017 21:57:58 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/wwwmufamadi/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[25-Dec-2017 01:37:30 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/wwwmufamadi/public_html/wp-content/themes/twentyfifteen/functions.php on line 41
+[25-Dec-2017 01:37:32 UTC] PHP Fatal error:  Call to undefined function get_template_directory() in /home/wwwmufamadi/public_html/wp-content/themes/twentyfifteen/functions.php on line 41

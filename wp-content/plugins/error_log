@@ -1,0 +1,2 @@
+[26-Jan-2018 08:30:19 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/wwwmufamadi/public_html/wp-content/plugins/hello.php on line 60
+[26-Jan-2018 08:30:19 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/wwwmufamadi/public_html/wp-content/plugins/hello.php on line 60
